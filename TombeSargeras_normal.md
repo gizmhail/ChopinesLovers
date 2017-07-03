@@ -10,7 +10,7 @@
 - en prison, taper le boss (invincible) pour faire pop des reliques d'espoir ; les prendre pour faire disparaître le tourment et avoir un bouton d'action pour sortir quand on atteint 0
 - ne jamais attaquer Belac pendant Bourrasque gangrenée, ni Atrigan pendant Lâme d'os : augmente fortement la corruption
 - en général taper Belac, et passer sur Atrigan quelques secondes avant Bourrasque gangrenée
-- sur Angoisse retentissante, aller dans la prison immédiatement s'il y a un tank dedans (cela arrête la montée de Tourment associé
+- sur le debuff Angoisse retentissante, aller dans la prison immédiatement s'il y a un tank dedans (cela arrête la montée de Tourment associé
 - assurer une rotation de CS sur les pointes de Belac
 - [Tank] Attrigan dos au raid, le kitter autour de la salle pendant Lâme d'os; pas besoin de tanker Belac
 - [Heal] dispel sur Angoisse retentissante 
