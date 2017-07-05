@@ -30,3 +30,12 @@
 - [P2] éviter la bande blanche qui apparait le long du centre
 - [P2] quand il y a les cercles d'eau au bord, 3 joueurs rentrent dans une zones noire, puis dans le cercle le plus extérieur d'eau
 - [P3] P1 et P2 fusionnée
+
+# Soeur de la Lune - normal
+- alterner entre phase claire/sombre quand on a entre 7/13 stack. Ne pas tous le faire en même temps
+- [P1] se mettre tous sur le rayon rose pour partager les dégats
+- [P2] fopcus très vite le boss pendant l'Etreinte de l'Eclipse pour casser son bouclier
+- [P2] s'il reste des boucliers sur les joueurs en fin de l'Etreinte, ils s'éloignent pour exploser loin des autres
+- [P2] si pas d'Etreinte, focus add
+- [P3] poser les silences suivant balise lunaire en bord de sol (et swtich clair/lune vite pour limiter les dégats)
+- [P3] éviter les bouclier qui rebondissent en bord de salle
