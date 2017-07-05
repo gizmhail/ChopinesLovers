@@ -14,3 +14,10 @@
 - assurer une rotation de CS sur les pointes de Belac
 - [Tank] Attrigan dos au raid, le kitter autour de la salle pendant Lâme d'os; pas besoin de tanker Belac
 - [Heal] dispel sur Angoisse retentissante 
+
+# Harjatan - normal
+- paqués devant le boss pour partager les dégats
+- quand les adds murlocs arrivent, focus les caster (et CS), et kiter hors du raid si les guerriers nous attaquent
+- quand on a un debuff, poser la flaque loin du centre
+- quand les flaquent vont vers le boss, les éviter
+- après l'absorption des flaques, rester loin du boss tant qu'il ne les a pas toutes recrachées (de plus en plus long au fil des phases)
