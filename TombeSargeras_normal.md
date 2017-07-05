@@ -21,3 +21,12 @@
 - quand on a un debuff, poser la flaque loin du centre
 - quand les flaquent vont vers le boss, les éviter
 - après l'absorption des flaques, rester loin du boss tant qu'il ne les a pas toutes recrachées (de plus en plus long au fil des phases)
+
+# Sassz'ine - normal
+- [P1] ne pas tuer de suite les anguilles, les tuer avant l'arriver des tornades
+- [P1] se cacher derrière les flaques créées par les morts dasn anguilles pour arrêter les tornades
+- [P1] absorber le tir vert à plusieurs
+- [P1] ne pas se faire électrocuter par les méduses
+- [P2] éviter la bande blanche qui apparait le long du centre
+- [P2] quand il y a les cercles d'eau au bord, 3 joueurs rentrent dans une zones noire, puis dans le cercle le plus extérieur d'eau
+- [P3] P1 et P2 fusionnée
