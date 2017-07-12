@@ -51,6 +51,11 @@
 - [P2] Mort fracturante : le groupe monde physique se pack sur le tank et le boss, les autres vont le plus loin possible
 - [P2] Fracture mortelle : le groupe monde esprit se pack sur le tank et le boss, les autres vont le plus loin possible
 
-
+# Demoiselle de vigilance - normal
+- à chaque Infusion, aller du côté du boss esprit ou gangréné, suivant sont buff (pas 1 seul joueur mélangé ne doit rester)
+- debuff bombe : à 2 secondes de sa fin, se jeter dansle trou central
+- quand le boss à un bouclier, aller au plus proche de lui, ne pas prendre d'orbe qui ne sont pas de la couleur de notre debuff
+- quand le boss à un bouclier, rester sur les lignes dorées/métallique une fois en place, le tank prend les orbes
+- CS une fois le bouclier down
 
 
