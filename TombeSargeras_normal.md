@@ -40,3 +40,17 @@
 - [P2] si pas d'Etreinte, focus add
 - [P3] poser les silences suivant balise lunaire en bord de sol (et swtich clair/lune vite pour limiter les dégats)
 - [P3] éviter les bouclier qui rebondissent en bord de salle
+
+# Hôte désolé - normal
+- la moitié dans le monde des ombres (via brazéro) et sur la gauche, l'autre dans le monde physique (normal) sur la droite
+- si lien avec un joueur de l'autre monde (peu visible, attention), se retrouver au centre, puis revenir de son côté
+- [P1-physique] focus templier, autres adds en clivant
+- [P1-ombre] focus relicat
+- [P1-physique] placer les cône noir créés par les cris le plus à droite, puis coller jusqu'à revenir au centre (ne pas toucher la partie gauche)
+- [P2] passer entièrement sur l'hôte quand les 2 premiers boss sont à 30% (vie partagée), on les ignore à partir de là
+- [P2] Mort fracturante : le groupe monde physique se pack sur le tank et le boss, les autres vont le plus loin possible
+- [P2] Fracture mortelle : le groupe monde esprit se pack sur le tank et le boss, les autres vont le plus loin possible
+
+
+
+
