@@ -33,6 +33,7 @@
 
 # Soeur de la Lune - normal
 - alterner entre phase claire/sombre quand on a entre 7/13 stack. Ne pas tous le faire en même temps
+- balise lunaire : swtich clair/lune vite pour limiter les dégats
 - [P1] se mettre tous sur le rayon rose pour partager les dégats
 - [P2] fopcus très vite le boss pendant l'Etreinte de l'Eclipse pour casser son bouclier
 - [P2] s'il reste des boucliers sur les joueurs en fin de l'Etreinte, ils s'éloignent pour exploser loin des autres
