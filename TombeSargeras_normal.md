@@ -58,4 +58,12 @@
 - quand le boss à un bouclier, rester sur les lignes dorées/métallique une fois en place, le tank prend les orbes
 - CS une fois le bouclier down
 
-
+# Avatar déchu - normal
+- 2 phases : faire direr la première le plus longtemps possible en faisant monter l'énergie de la demoiselle sans la tuer
+- [P1] faire passer la demoiselle sur les coulée orange, pour que l'Avatar ne gagne pas en énergie
+- [P1] taper la demoiselle quand elle a le bouclier pour la CS (et ne pas la frapper sinon, pour la faire durer)
+- [P1] Chaos délié : ne pas marcher dans les flaques des autres, les poser en ligne ou en cercle, chacun de son côté
+- [P1] Lames ténébreuses : éviter que le tir touche trop de monde
+- [P1 et P2] Rupture des réalité : s'éloigner du boss
+- [P2] Ne pas laisser l'Avatar marcher dans la lave, le déplacer de coin en coin (il casse une partie du sol sur Rupture des réalités)
+- [P2] Marques sombres : explosion à partagfer, attention ça bump
