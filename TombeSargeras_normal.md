@@ -1,6 +1,6 @@
 # Goroth - normal
 - si ciblé par une flèche (Étoile fracassante), se cacher derrière une pointe (plusieurs si possible) ;
-- à 100 d'énergue, Brûlure infernale : tout le monde se cache derrière une pointe
+- à 100 d'énergie, Brûlure infernale : tout le monde se cache derrière une pointe
 - si entouré d'une zone verte (Comète déferlante), s'éloigner des pointes pour ne pas les casser (ainsi que des autres joueurs si possible)
 - [Tank] sur Armure ardente, switch de tank, et le tank touché met sa zone loin des joueurs et pointes, jsuqu'à explosion
 
@@ -19,12 +19,12 @@
 - paqués devant le boss pour partager les dégats
 - quand les adds murlocs arrivent, focus les caster (et CS), et kiter hors du raid si les guerriers nous attaquent
 - quand on a un debuff, poser la flaque loin du centre
-- quand les flaquent vont vers le boss, les éviter
+- quand les flaques vont vers le boss, les éviter
 - après l'absorption des flaques, rester loin du boss tant qu'il ne les a pas toutes recrachées (de plus en plus long au fil des phases)
 
 # Sassz'ine - normal
 - [P1] ne pas tuer de suite les anguilles, les tuer avant l'arriver des tornades
-- [P1] se cacher derrière les flaques créées par les morts dasn anguilles pour arrêter les tornades
+- [P1] se cacher derrière les flaques créées par les morts des anguilles pour arrêter les tornades
 - [P1] absorber le tir vert à plusieurs
 - [P1] ne pas se faire électrocuter par les méduses
 - [P2] éviter la bande blanche qui apparait le long du centre
