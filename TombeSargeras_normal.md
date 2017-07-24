@@ -76,4 +76,4 @@
 - [P1->P2] Partager le Flammefroi localisé
 - [P2] Debuff -> clones : les mettre au CaC, les focus vite
 - [P2->P3] Trouver Illidan, prévenir les autres et se regrouper
-- [P3] rester loin des fialles, sauf lors des Tenèbres des milles ans : être dans les fialles pour être protégés
+- [P3] rester loin des failles, sauf lors des Tenèbres des milles ans : être dans les failles pour être protégés
