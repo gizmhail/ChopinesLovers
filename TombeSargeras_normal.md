@@ -66,4 +66,14 @@
 - [P1] Lames ténébreuses : éviter que le tir touche trop de monde
 - [P1 et P2] Rupture des réalité : s'éloigner du boss
 - [P2] Ne pas laisser l'Avatar marcher dans la lave, le déplacer de coin en coin (il casse une partie du sol sur Rupture des réalités)
-- [P2] Marques sombres : explosion à partagfer, attention ça bump
+- [P2] Marques sombres : explosion à partager, attention ça bump
+
+# Kil'jaeden - normal
+- 3 phases, et 2 transitions
+- [P1] Armagedon : un joueur dans chaque zone qui apparait, un tank ou une protec dans la grosse. Ne pas y aller 2 fois de suite
+- [P1] Se rapprocher de la singularité mais ne pas aller juste dessous
+- [P1->P2] S'écarter sur les zones Détonation de flamefroi
+- [P1->P2] Partager le Flammefroi localisé
+- [P2] Debuff -> clones : les mettre au CaC, les focus vite
+- [P2->P3] Trouver Illidan, prévenir les autres et se regrouper
+- [P3] rester loin des fialles, sauf lors des Tenèbres des milles ans : être dans les fialles pour être protégés
