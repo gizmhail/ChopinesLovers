@@ -75,5 +75,5 @@
 - [P1->P2] S'écarter sur les zones Détonation de flamefroi
 - [P1->P2] Partager le Flammefroi localisé
 - [P2] Debuff -> clones : les mettre au CaC, les focus vite
-- [P2->P3] Trouver Illidan, prévenir les autres et se regrouper
+- [P2->P3] Trouver Illidan, prévenir les autres et se regrouper pour avoir son buff, et ainsi pouvoir aller taper les adds
 - [P3] rester loin des failles, sauf lors des Tenèbres des milles ans : être dans les failles pour être protégés
