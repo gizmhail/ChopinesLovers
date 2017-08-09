@@ -77,3 +77,4 @@
 - [P2] Debuff -> clones : les mettre au CaC, les focus vite
 - [P2->P3] Trouver Illidan, prévenir les autres et se regrouper pour avoir son buff, et ainsi pouvoir aller taper les adds
 - [P3] rester loin des failles, sauf lors des Tenèbres des milles ans : être dans les failles pour être protégés
+- [P3] les pilliers explosent en croix dans 4 directions, le long des murs de la salle. Ne pas être dans les rayons
