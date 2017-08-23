@@ -46,6 +46,7 @@
 - si lien avec un joueur de l'autre monde (peu visible, attention), se retrouver au centre, puis revenir de son côté
 - [P1-physique] focus templier, autres adds en clivant
 - [P1-ombre] focus relicat
+- [P1-ombre] CS prêtresse sur cri fracassant
 - [P1-physique] placer les cône noir créés par les cris le plus à droite, puis coller jusqu'à revenir au centre (ne pas toucher la partie gauche)
 - [P2] passer entièrement sur l'hôte quand les 2 premiers boss sont à 30% (vie partagée), on les ignore à partir de là
 - [P2] Mort fracturante : le groupe monde physique se pack sur le tank et le boss, les autres vont le plus loin possible
