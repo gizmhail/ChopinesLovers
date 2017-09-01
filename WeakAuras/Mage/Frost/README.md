@@ -16,3 +16,8 @@ Pour **chaque** aura/groupe d'auras:
 
 
 4. Un cadre apparait, avec un bouton _import_, cliquez sur ce dernier
+
+# Mage frost
+
+1. Importer le contenu de https://raw.githubusercontent.com/gizmhail/ChopinesLoversStrat/master/WeakAuras/Mage/Frost/01-Proc
+2. Importer le contenu de https://raw.githubusercontent.com/gizmhail/ChopinesLoversStrat/master/WeakAuras/Mage/Frost/02-CD
