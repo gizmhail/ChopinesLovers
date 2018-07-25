@@ -10,6 +10,6 @@
 - respecter les autres (dans le cadre du jeux cela sous entend faire mon maximum pour que dans mon rôle je réponde au besoin du groupe avec les moyens à ma disposition - connaissance de sa classe / role / perso, et aider ceux qui sont moins à l'aise pour qu'ils atteignent leur maximum)
 
 # Choix des objectifs PvE pour nos 2 soirées :
-Prio 1) ce qui est sensiblement utile pour équiper le groupe dans du raid PvE 
-Prio 2) faire le plus haut niveau de raid PvE possible, sachant que l’on n’a pas un niveau moyen aussi grand que d’autres guildes et qu’il faut analyser nos possibilités et adapter. 
-Prio 3) si rien ne rentre dans ces 2 cas (on n’a besoin de rien en raid, sauf des choses qui ne sont clairement pas de notre niveau), on effectue autre chose pour profiter des soirées ensemble (en restant sur du raid)
+- Prio 1) ce qui est sensiblement utile pour équiper le groupe dans du raid PvE 
+- Prio 2) faire le plus haut niveau de raid PvE possible, sachant que l’on n’a pas un niveau moyen aussi grand que d’autres guildes et qu’il faut analyser nos possibilités et adapter. 
+- Prio 3) si rien ne rentre dans ces 2 cas (on n’a besoin de rien en raid, sauf des choses qui ne sont clairement pas de notre niveau), on effectue autre chose pour profiter des soirées ensemble (en restant sur du raid)
