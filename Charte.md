@@ -1,5 +1,6 @@
 
- # Charte des Chopines Lovers  (en cours de rédaction, basé sur post de Vandrax pour le moment, complété par Helmork) : 
+ # Charte des Chopines Lovers  
+ _(en cours de rédaction, basé sur post de Vandrax pour le moment, complété par Helmork)_ 
 - guilde familiale casual à orientation plutôt PVE (rien n'empêche de faire du PVP) et rien n'empêche d'être là que pour la chan /g
 - être à l'heure 
 - si possible avoir ses consommables (si possible car aucune obligation de farm - mais regarder en banque de guilde s'il y a du stock avant de raid alors), 
