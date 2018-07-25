@@ -38,3 +38,7 @@ Les rôles joués suivent la même logique que la classe jouée. Cependant, cert
 - Prio 1) ce qui est sensiblement utile pour équiper le groupe dans du raid PvE 
 - Prio 2) faire le plus haut niveau de raid PvE possible, sachant que l’on n’a pas un niveau moyen aussi grand que d’autres guildes et qu’il faut analyser nos possibilités et adapter. 
 - Prio 3) si rien ne rentre dans ces 2 cas (on n’a besoin de rien en raid, sauf des choses qui ne sont clairement pas de notre niveau), on effectue autre chose pour profiter des soirées ensemble (en restant sur du raid)
+
+# GM / RL / Officiers / Maître de classe
+Les éventuels officiers sont nommés par le GM. Ils aident à garder la bonne ambiance et le bien être de chacun, tout en permettant à la guilde d'avancer dans les raids. 
+Les éventuels maîtres de classe sont définis par leurs pairs, pour conseiller et observer les évolutions de la classe, donner des conseils et ressources, et aider à analyser les performances des joueurs de cette classe.
