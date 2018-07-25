@@ -2,14 +2,16 @@
  _Remarque: en cours de refonte importante, pour le passage à BFA 
  # Charte des Chopines Lovers  
  _(en cours de rédaction, basé sur post de Vandrax pour le moment, complété par Helmork)_ 
-- guilde familiale casual à orientation plutôt PVE (rien n'empêche de faire du PVP) et rien n'empêche d'être là que pour la chan /g
+- guilde familiale casual à orientation plutôt PVE (rien n'empêche de faire du PVP, et rien n'empêche d'être là que pour la chan /g uniquement)
+
+# Attentes pour les membres du raid
 - être à l'heure 
-- si possible avoir ses consommables (si possible car aucune obligation de farm - mais regarder en banque de guilde s'il y a du stock avant de raid alors), 
+- si possible avoir ses consommables ("si possible" car aucune obligation de farm - mais regarder en banque de guilde s'il y a du stock avant de raid alors), 
 - être enchanté / gemmé (gratuit, pas de vente dans la guilde) en début de raid
-- avoir un outil de  bossmod à jour (il existe des outils pour faciliter ça)
+- avoir un outil de  bossmod (Big Wigs, DBm) à jour (il existe des outils pour faciliter ça : le client Twitch par exemple)
 - raid 2 soirs par semaine
 - participer à la bonne ambiance
-- respecter les autres (dans le cadre du jeux cela sous entend faire mon maximum pour que dans mon rôle je réponde au besoin du groupe avec les moyens à ma disposition - connaissance de sa classe / role / perso, et aider ceux qui sont moins à l'aise pour qu'ils atteignent leur maximum)
+- respecter les autres (dans le cadre du jeux cela sous entend aussi faire mon maximum pour que dans mon rôle je réponde au besoin du groupe avec les moyens à ma disposition - connaissance de sa classe / role / perso, et aider ceux qui sont moins à l'aise pour qu'ils atteignent leur maximum)
 
 # Choix des objectifs PvE pour nos 2 soirées :
 - Prio 1) ce qui est sensiblement utile pour équiper le groupe dans du raid PvE 
