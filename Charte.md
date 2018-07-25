@@ -4,11 +4,11 @@
  # Charte des Chopines Lovers  
  _(en cours de rédaction, basé sur post de Vandrax pour le moment, complété par Helmork)_ 
 - guilde familiale casual à orientation plutôt PVE (rien n'empêche de faire du PVP, et rien n'empêche d'être là que pour la chan /g uniquement)
-- il n'y a aucun souci pour guilder reroll/amis/famille. Par conter, les personnes guildés par ce biais ne font pas partie automatiquement du roster de raid. Ils devront remplir les conditions normales
+- il n'y a aucun souci pour guilder reroll/amis/famille. Par contre, les personnes guildés par ce biais ne font pas partie automatiquement du roster de raid. Ils devront remplir les conditions normales
 
 # Composition du raid
 Le pre-requis pour être membre du roster de raid est d'être disponible les 2 soirs de raid hebdomadaires choisis par la guilde.
-En plus de cela, sont pris dans le raid :
+Une fois cette condition remplie, sont pris dans le raid :
 - les joueurs historiques du roster qui ont assuré une présence continue (hors vacances annoncées bien sûr) régulière ;
 - les nouveaux joueurs recrutés qui ont démontrés leurs performances suffisante pour la bonne avancée du raid.
 
