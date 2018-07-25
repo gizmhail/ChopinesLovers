@@ -28,6 +28,9 @@ Il est également possible d'inviter des amis, mais avec les même contraintes e
 - si possible avoir ses consommables ("si possible" car aucune obligation de farm - mais regarder en banque de guilde s'il y a du stock avant de raid alors), 
 - respecter les autres (dans le cadre du jeux cela sous entend aussi faire mon maximum pour que dans mon rôle je réponde au besoin du groupe avec les moyens à ma disposition - connaissance de sa classe / role / perso, et aider ceux qui sont moins à l'aise pour qu'ils atteignent leur maximum)
 
+# Jour et heure de raid
+_en cours de définition_
+
 # Classe jouée
 Chaque membre du roster choisi une classe en début d'extension. S'il souhaite changer de classe, il faut qu'il équipe hors raid son nouveau main (avec l'aide active des guildoux, bien sûr) avant de basculer. Entre temps, pour garder sa place dans le roster, il doit continuer à venir aider avec son ancien main.
 
