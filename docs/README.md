@@ -1,2 +1,3 @@
 # Chopines Lovers
-- [Stratégies](https://github.com/gizmhail/ChopinesLovers/tree/master/Strategy)
+- [Stratégies](Strategy)
+- [Charte](Chart.md)
