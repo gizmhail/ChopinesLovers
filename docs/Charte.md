@@ -1,7 +1,8 @@
 
  _Remarque: en cours de refonte importante, pour le passage à BFA_
- ------------------------------------
- # Charte des Chopines Lovers  
+
+
+# Charte des Chopines Lovers  
  _(en cours de rédaction, basé sur post de Vandrax pour le moment, complété par Helmork)_ 
 - guilde familiale casual à orientation plutôt PVE (rien n'empêche de faire du PVP, et rien n'empêche d'être là que pour la chan /g uniquement)
 - il n'y a aucun souci pour guilder reroll/amis/famille. Par contre, les personnes guildés par ce biais ne font pas partie automatiquement du roster de raid. Ils devront remplir les conditions normales
