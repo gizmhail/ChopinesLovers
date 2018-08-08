@@ -32,8 +32,13 @@ Il est également possible d'inviter des amis, mais avec les même contraintes e
 # Organisation des raids
 ## Jour
 _en cours de définition_
+La guilde raid 2 soirs par semaine. Actuellement, il s'agit de _xx_ et _xx_.
+Ces soirs sont fixes, néanmoins en cas d'imprévu, on peut définir à l'avance d'un décalage exceptionnel. Voire renouveller le vote pour le choix des soirées fixes.
+
 ## Horaires
 _en cours de définition_
+_xx:xx_ : groupage. On lance les TP, et commence à faire les premiers trash dès qu'il y a un nombre minimal de joueurs pour cela. Si jamais un joueur à besoin d'un enchantement/gemmage, cela peut être fait dans le raid avant l'heure de pull (idéalement, il faut le faire avant).
+_xx:xx_ : premier pull. Tout le monde doit être dans le raid à cette heure là (si jamias vous avez une contrainte faisant que vous n'êtes dispo qu'à cette heure là ce soir là, déconnectez-vous devant le raid). Tout joueur qui n'est pas présent au deuxième appel aura un point tracé dans le Hall of Shame pour la soirée.
 
 ## Pause
 Les soirées de raid comprennent une pause de 5 minutes, pour synchroniser les besoins de s'absenter de devant l'ordi. Celle-ci sera en général à mi-soirée.
@@ -43,6 +48,8 @@ Il est important d'être revenu à la fin de la pause. Tout absent au 2ème appe
 Afin d'éviter les petites incivilités (retard, pause plus longue que convenue, ...), nous testons un Hall of Shame, pour compter celles-ci, et faire des classements glissants (toute l'extension, dernier palier, dernier mois, ...).
 Si jamais celles-ci se répêtent trop pour un joueur, GM, off, et RL se réservent le droit de mettre en place des sanctions (perte de place réservée en raid, etc..), sachant que le but est que cela serve le moins possible ainsi, voire jamais : de part le respect entre membres dela guilde attendu, un petit rappel qu'on a géner les autres devrait suffire.
 Les actions amenant un point sont initialement liée à des retards en début de raid ou retour de pause. Le GM pourra attendre les cas d'application en cas de souci...qui, on n'en doute pas entre nous, n'ariveront pas :) !
+
+
 
 # Classe jouée
 Chaque membre du roster choisi une classe en début d'extension. S'il souhaite changer de classe, il faut qu'il équipe hors raid son nouveau main (avec l'aide active des guildoux, bien sûr) avant de basculer. Entre temps, pour garder sa place dans le roster, il doit continuer à venir aider avec son ancien main.
