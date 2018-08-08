@@ -1,2 +1,2 @@
 # Chopines Lovers
-- [Charte](Chart.md)
+- [Charte](Charte.md)
