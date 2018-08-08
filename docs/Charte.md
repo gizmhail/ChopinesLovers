@@ -13,7 +13,7 @@ Une fois cette condition remplie, sont pris dans le raid :
 - les joueurs historiques du roster qui ont assuré une présence continue (hors vacances annoncées bien sûr) régulière ;
 - les nouveaux joueurs recrutés qui ont démontrés leurs performances suffisante pour la bonne avancée du raid.
 
-Si la soirée le permet (boss simple, contenu farmé), il est possible, et souhaitable, d'inviter des joueurs de la guilde hors du roster de raid habituel, sous réserve que le RL (ou à défaut le GM ou à défaut les officiers présents) valident que ça ne déstabilise pas l'équilibre du groupe pour l'objectif de la soirée (ni trop retarder le progresison).
+Si la soirée le permet (boss simple, contenu farmé), il est possible, et souhaitable, d'inviter des joueurs de la guilde hors du roster de raid habituel, sous réserve que le RL (ou à défaut le GM ou à défaut les officiers présents) valident que ça ne déstabilise pas l'équilibre du groupe pour l'objectif de la soirée (ni trop retarder le progression).
 Il est également possible d'inviter des amis, mais avec les même contraintes et sans que nous cherchions plus que cela à le faire (un ami souhaitant venir régulièrement doit démontrer sa performance comme un recruté pour devenir membre du roster).
 
 # Objectif PvE
@@ -32,27 +32,27 @@ Il est également possible d'inviter des amis, mais avec les même contraintes e
 # Organisation des raids
 ## Jour
 _en cours de définition_
-La guilde raid 2 soirs par semaine. Actuellement, il s'agit de _xx_ et _xx_.
-Ces soirs sont fixes, néanmoins en cas d'imprévu, on peut définir à l'avance d'un décalage exceptionnel. Voire renouveller le vote pour le choix des soirées fixes.
+- la guilde raid 2 soirs par semaine. Actuellement, il s'agit de _xx_ et _xx_.
+- ces soirs sont fixes, néanmoins en cas d'imprévu, on peut définir à l'avance d'un décalage exceptionnel. Voire renouveller le vote pour le choix des soirées fixes.
 
 ## Horaires
 _en cours de définition_
-_xx:xx_ : groupage. On lance les TP, et commence à faire les premiers trash dès qu'il y a un nombre minimal de joueurs pour cela. Si jamais un joueur à besoin d'un enchantement/gemmage, cela peut être fait dans le raid avant l'heure de pull (idéalement, il faut le faire avant).
-_xx:xx_ : premier pull. Tout le monde doit être dans le raid à cette heure là (si jamias vous avez une contrainte faisant que vous n'êtes dispo qu'à cette heure là ce soir là, déconnectez-vous devant le raid). Tout joueur qui n'est pas présent au deuxième appel aura un point tracé dans le Hall of Shame pour la soirée.
+- _xx:xx_ : groupage. On lance les TP, et commence à faire les premiers trash dès qu'il y a un nombre minimal de joueurs pour cela. Si jamais un joueur à besoin d'un enchantement/gemmage, cela peut être fait dans le raid avant l'heure de pull (idéalement, il faut le faire avant).
+- _xx:xx_ : premier pull. Tout le monde doit être dans le raid à cette heure là (si jamias vous avez une contrainte faisant que vous n'êtes dispo qu'à cette heure là ce soir là, déconnectez-vous devant le raid). Tout joueur qui n'est pas présent au deuxième appel aura un point tracé dans le Hall of Shame pour la soirée.
 
 ## Pause
-Les soirées de raid comprennent une pause de 5 minutes, pour synchroniser les besoins de s'absenter de devant l'ordi. Celle-ci sera en général à mi-soirée.
-Il est important d'être revenu à la fin de la pause. Tout absent au 2ème appel, hors cas de force majeure, aura un point tracé dans le Hall of Shame pour la soirée.
+- les soirées de raid comprennent une pause de 5 minutes, pour synchroniser les besoins de s'absenter de devant l'ordi. Celle-ci sera en général à mi-soirée.
+- il est important d'être revenu à la fin de la pause. Tout absent au 2ème appel, hors cas de force majeure, aura un point tracé dans le Hall of Shame pour la soirée.
 
 ## Hall of shame
-Afin d'éviter les petites incivilités (retard, pause plus longue que convenue, ...), nous testons un Hall of Shame, pour compter celles-ci, et faire des classements glissants (toute l'extension, dernier palier, dernier mois, ...).
-Si jamais celles-ci se répêtent trop pour un joueur, GM, off, et RL se réservent le droit de mettre en place des sanctions (perte de place réservée en raid, etc..), sachant que le but est que cela serve le moins possible ainsi, voire jamais : de part le respect entre membres dela guilde attendu, un petit rappel qu'on a géner les autres devrait suffire.
-Les actions amenant un point sont initialement liée à des retards en début de raid ou retour de pause. Le GM pourra attendre les cas d'application en cas de souci...qui, on n'en doute pas entre nous, n'ariveront pas :) !
+- afin d'éviter les petites incivilités (retard, pause plus longue que convenue, ...), nous testons un Hall of Shame, pour compter celles-ci, et faire des classements glissants (toute l'extension, dernier palier, dernier mois, ...).
+- si jamais celles-ci se répêtent trop pour un joueur, GM, off, et RL se réservent le droit de mettre en place des sanctions (perte de place réservée en raid, etc..), sachant que le but est que cela serve le moins possible ainsi, voire jamais : de part le respect entre membres dela guilde attendu, un petit rappel qu'on a géner les autres devrait suffire.
+- les actions amenant un point sont initialement liée à des retards en début de raid ou retour de pause. Le GM pourra attendre les cas d'application en cas de souci...qui, on n'en doute pas entre nous, n'ariveront pas :) !
 
 ## Planification des raids
 _en cours de définition_
-Il est demandé de répondre au invitation le plus possible à l'avance.
-Si jamais un joueur remarque que la veille du raid, il n'y a pas assez de joueurs présent, on pourra initier une discussion (Discord à priori) pour déterminer si on annule le raid, les solutions alternatives, ....
+- il est demandé de répondre au invitation le plus possible à l'avance.
+- si jamais un joueur remarque que la veille du raid, il n'y a pas assez de joueurs présent, on pourra initier une discussion (Discord à priori) pour déterminer si on annule le raid, les solutions alternatives, ....
 
 # Classe jouée
 Chaque membre du roster choisi une classe en début d'extension. S'il souhaite changer de classe, il faut qu'il équipe hors raid son nouveau main (avec l'aide active des guildoux, bien sûr) avant de basculer. Entre temps, pour garder sa place dans le roster, il doit continuer à venir aider avec son ancien main.
@@ -72,7 +72,7 @@ _en cours de définition_
 ## GM
 Le GM s'assure de garder la cohésion et l'esprit (bonne ambiance, familiale, mais envie de beau jeu et de progression à notre rythme) de la guilde. Il s'assure d'écouter l'avis de tous, mais il tranche quand une discussion s'enlise pour éviter les débats sans fins et les rancoeurs.
 ## Officiers
-Les éventuels officiers sont nommés par le GM, et l'aident dans son rôle. 
-Ils aident à garder la bonne ambiance et le bien être de chacun, tout en permettant à la guilde d'avancer dans les raids. Ils s'assurent d'écouter les joueurs, de sentir les envies et capacités, et poussent les joueurs à s'entre-aider et s'améliorer. En cas d'absence de maître de classe pour un joueur, ils aident à trouver des pistes d'amélioration.
+- les éventuels officiers sont nommés par le GM, et l'aident dans son rôle. 
+- ils aident à garder la bonne ambiance et le bien être de chacun, tout en permettant à la guilde d'avancer dans les raids. - - ils s'assurent d'écouter les joueurs, de sentir les envies et capacités, et poussent les joueurs à s'entre-aider et s'améliorer. En cas d'absence de maître de classe pour un joueur, ils aident à trouver des pistes d'amélioration.
 ## Maître de classe
 Les éventuels maîtres de classe sont définis par leurs pairs, pour conseiller et observer les évolutions de la classe, donner des conseils et ressources, et aider à analyser les performances des joueurs de cette classe.
