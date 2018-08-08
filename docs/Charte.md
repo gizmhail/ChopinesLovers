@@ -66,5 +66,13 @@ Les rôles joués suivent la même logique que la classe jouée. Cependant, cert
 - Prio 3) si rien ne rentre dans ces 2 cas (on n’a besoin de rien en raid, sauf des choses qui ne sont clairement pas de notre niveau), on effectue autre chose pour profiter des soirées ensemble (en restant sur du raid)
 
 # GM / RL / Officiers / Maître de classe
-- Les éventuels officiers sont nommés par le GM. Ils aident à garder la bonne ambiance et le bien être de chacun, tout en permettant à la guilde d'avancer dans les raids. 
-- Les éventuels maîtres de classe sont définis par leurs pairs, pour conseiller et observer les évolutions de la classe, donner des conseils et ressources, et aider à analyser les performances des joueurs de cette classe.
+## RL
+Le RL va récupérer les informations et avis des joueurs pour organiser les combats et l'organisation d'une soirée de raid, il tranchera et sera la seule voix qui orientera (assignation des taches a chacun, placement, ...)
+_en cours de définition_
+## GM
+Le GM s'assure de garder la cohésion et l'esprit (bonne ambiance, familiale, mais envie de beau jeu et de progression à notre rythme) de la guilde. Il s'assure d'écouter l'avis de tous, mais il tranche quand une discussion s'enlise pour éviter les débats sans fins et les rancoeurs.
+## Officiers
+Les éventuels officiers sont nommés par le GM, et l'aident dans son rôle. 
+Ils aident à garder la bonne ambiance et le bien être de chacun, tout en permettant à la guilde d'avancer dans les raids. Ils s'assurent d'écouter les joueurs, de sentir les envies et capacités, et poussent les joueurs à s'entre-aider et s'améliorer. En cas d'absence de maître de classe pour un joueur, ils aident à trouver des pistes d'amélioration.
+# Maître de classe
+Les éventuels maîtres de classe sont définis par leurs pairs, pour conseiller et observer les évolutions de la classe, donner des conseils et ressources, et aider à analyser les performances des joueurs de cette classe.
