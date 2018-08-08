@@ -74,5 +74,5 @@ Le GM s'assure de garder la cohésion et l'esprit (bonne ambiance, familiale, ma
 ## Officiers
 Les éventuels officiers sont nommés par le GM, et l'aident dans son rôle. 
 Ils aident à garder la bonne ambiance et le bien être de chacun, tout en permettant à la guilde d'avancer dans les raids. Ils s'assurent d'écouter les joueurs, de sentir les envies et capacités, et poussent les joueurs à s'entre-aider et s'améliorer. En cas d'absence de maître de classe pour un joueur, ils aident à trouver des pistes d'amélioration.
-# Maître de classe
+## Maître de classe
 Les éventuels maîtres de classe sont définis par leurs pairs, pour conseiller et observer les évolutions de la classe, donner des conseils et ressources, et aider à analyser les performances des joueurs de cette classe.
