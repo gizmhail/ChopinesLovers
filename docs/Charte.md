@@ -22,15 +22,27 @@ Il est également possible d'inviter des amis, mais avec les même contraintes e
 - on optimise les efforts pour atteindre le clean héroïque, mais cela ne doit pas améner à écarter du groupe les membres du roster : on définit nos objectifs en fonction des membres du roster
 
 # Attentes pour les membres du raid
-- être à l'heure et respecter les éventuel temps de pose
+- être à l'heure et respecter les éventuel temps de pause
 - avoir un outil de  bossmod (Big Wigs, DBm) à jour (il existe des outils pour faciliter ça : le client Twitch par exemple)
 - être enchanté / gemmé (gratuit, pas de vente dans la guilde) en début de raid
 - participer à la bonne ambiance
 - si possible avoir ses consommables ("si possible" car aucune obligation de farm - mais regarder en banque de guilde s'il y a du stock avant de raid alors), 
 - respecter les autres (dans le cadre du jeux cela sous entend aussi faire mon maximum pour que dans mon rôle je réponde au besoin du groupe avec les moyens à ma disposition - connaissance de sa classe / role / perso, et aider ceux qui sont moins à l'aise pour qu'ils atteignent leur maximum)
 
-# Jour et heure de raid
+# Organisation des raids
+## Jour
 _en cours de définition_
+## Horaires
+_en cours de définition_
+
+## Pause
+Les soirées de raid comprennent une pause de 5 minutes, pour synchroniser les besoins de s'absenter de devant l'ordi. Celle-ci sera en général à mi-soirée.
+Il est important d'être revenu à la fin de la pause. Tout absent au 2ème appel, hors cas de force majeure, aura un point tracé dans le Hall of Shame pour la soirée.
+
+## Hall of shame
+Afin d'éviter les petites incivilités (retard, pause plus longue que convenue, ...), nous testons un Hall of Shame, pour compter celles-ci, et faire des classements glissants (toute l'extension, dernier palier, dernier mois, ...).
+Si jamais celles-ci se répêtent trop pour un joueur, GM, off, et RL se réservent le droit de mettre en place des sanctions (perte de place réservée en raid, etc..), sachant que le but est que cela serve le moins possible ainsi, voire jamais : de part le respect entre membres dela guilde attendu, un petit rappel qu'on a géner les autres devrait suffire.
+Les actions amenant un point sont initialement liée à des retards en début de raid ou retour de pause. Le GM pourra attendre les cas d'application en cas de souci...qui, on n'en doute pas entre nous, n'ariveront pas :) !
 
 # Classe jouée
 Chaque membre du roster choisi une classe en début d'extension. S'il souhaite changer de classe, il faut qu'il équipe hors raid son nouveau main (avec l'aide active des guildoux, bien sûr) avant de basculer. Entre temps, pour garder sa place dans le roster, il doit continuer à venir aider avec son ancien main.
