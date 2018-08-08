@@ -49,7 +49,10 @@ Afin d'éviter les petites incivilités (retard, pause plus longue que convenue,
 Si jamais celles-ci se répêtent trop pour un joueur, GM, off, et RL se réservent le droit de mettre en place des sanctions (perte de place réservée en raid, etc..), sachant que le but est que cela serve le moins possible ainsi, voire jamais : de part le respect entre membres dela guilde attendu, un petit rappel qu'on a géner les autres devrait suffire.
 Les actions amenant un point sont initialement liée à des retards en début de raid ou retour de pause. Le GM pourra attendre les cas d'application en cas de souci...qui, on n'en doute pas entre nous, n'ariveront pas :) !
 
-
+## Planification des raids
+_en cours de définition_
+Il est demandé de répondre au invitation le plus possible à l'avance.
+Si jamais un joueur remarque que la veille du raid, il n'y a pas assez de joueurs présent, on pourra initier une discussion (Discord à priori) pour déterminer si on annule le raid, les solutions alternatives, ....
 
 # Classe jouée
 Chaque membre du roster choisi une classe en début d'extension. S'il souhaite changer de classe, il faut qu'il équipe hors raid son nouveau main (avec l'aide active des guildoux, bien sûr) avant de basculer. Entre temps, pour garder sa place dans le roster, il doit continuer à venir aider avec son ancien main.
