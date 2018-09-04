@@ -1,3 +1,5 @@
+# Taloc 
+
 ## 1.1. Tanks
 À 100 d’énergie, le tank ayant l'attention du boss doit viser le plus grand nombre de Tempête de sang avec le Broyeur de sang afin de les faire disparaître.
 Lorsque le boss atteint les 35% PV, des Sang amalgamé commenceront à apparaître, les tanks devront avoir leur pleine attention.
@@ -46,3 +48,6 @@ Le Tank principal devra se focaliser sur le fait de nettoyer le plus de Tempête
 
 # 4. Préoccupation principale des soigneurs
 Le seul réel objectif des Soigneurs devra être de s’éloigner le plus possible durant les Décharges de plasma tout en maintenant le raid le plus haut possible en vie. Soyez également attentifs aux chemins pris par les joueurs qui déposeront leur Tempêtes de sang par terre. Et bien sûr, de tenir l'ensemble du groupe en vie !
+
+----
+
