@@ -24,6 +24,7 @@ Lorsque l'ascenceur sera pleinement descendu, les joueurs devront être éparpil
 1.6. Héroïsme et Soif de sang 
 Nous vous conseillons d'utiliser l'héroïsme/soif de sang lorsque l'ascenseur atteindra le fond de la salle pendant la phase de transition, ce qui permettra aux DPS de tuer les derniers Sang amalgamé et de permettre aux soigneurs de se remettre de cette phase quelque peu chaotique.
 
+# 2ème partie pour mémoire à consulter pendant les pulls
 ## 2.1. Première phase
 Taloc, doit être tanké où il se trouve, faisant face au fond de la salle. Une zone proche d'un des bords de la salle devra être désignée pour placer les Tempête de sang. Les DPS Distance pourront se positionner où ils le souhaitent tant qu'ils sont capables de placer les Tempêtes de sang proche de l'endroit désigné lorsqu'ils seront visés par Décharge de plasma. Les DPS Mêlée devront être attentifs à l'endroit désigné pour déposer les Tempêtes de sang afin d'éviter de se faire toucher par Récupérer le broyeur.
 
