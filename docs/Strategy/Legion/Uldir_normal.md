@@ -1,5 +1,5 @@
 # Taloc 
-
+_Source:  https://worldofwarcraft.judgehype.com/article/guide-de-taloc-a-uldir-aptitudes-et-strategie-normal-et-heroique/ _
 ## 1.1. Tanks
 À 100 d’énergie, le tank ayant l'attention du boss doit viser le plus grand nombre de Tempête de sang avec le Broyeur de sang afin de les faire disparaître.
 Lorsque le boss atteint les 35% PV, des Sang amalgamé commenceront à apparaître, les tanks devront avoir leur pleine attention.
@@ -13,17 +13,18 @@ Faîtes attention aux joueurs atteints par la Décharge de plasma.
 Lorsque Taloc atteint 35% PV, ses dégats subis seront réduits de 99%, il commencera alors sa phase de transition. Cela dure environ 90 secondes, prévoyez vos sorts offensifs intelligemment.
 
 ## 1.4. Tout le monde
-Posez vos Tempête de sang les plus proches possibles des unes des autres.
-Éloignez-vous au moins de 30 mètres de Taloc lorsqu'il lance Récupérer le broyeur.
-Placez votre caméra vers le bas afin de voir et éviter les Rayon défensif d’Uldir.
-Soyez prêt à éviter Sang statique lorsque Taloc se retourne face au raid.
+- Posez vos Tempête de sang les plus proches possibles des unes des autres.
+- Éloignez-vous au moins de 30 mètres de Taloc lorsqu'il lance Récupérer le broyeur.
+- Placez votre caméra vers le bas afin de voir et éviter les Rayon défensif d’Uldir.
+- Soyez prêt à éviter Sang statique lorsque Taloc se retourne face au raid.
 
 ## 1.5. Positionnement 
-Assignez un coin dans la salle où déposer les Tempête de sang, dispersez les joueurs du raid autour de cette zone.
-Lorsque Taloc commence à incanter Broyeur de sang, le tank ayant l'attention du boss devra courir dans les Tempête de sang, pendant que le reste du raid devra se placer à son opposé.
-Durant la phase de transition, les DPS distances devront se positionner prêt du bord de la plateforme, afin d'indiquer aux DPS Mêlée et Tanks les endroits ou se placer pour éviter les Rayon défensif d’Uldir.
-Lorsque l'ascenceur sera pleinement descendu, les joueurs devront être éparpillés dans une zone de la salle, et les Tempête de sang devront être placées sur les bords de la salle.(modifié)
-1.6. Héroïsme et Soif de sang 
+- Assignez un coin dans la salle où déposer les Tempête de sang, dispersez les joueurs du raid autour de cette zone.
+- Lorsque Taloc commence à incanter Broyeur de sang, le tank ayant l'attention du boss devra courir dans les Tempête de sang, pendant que le reste du raid devra se placer à son opposé.
+- Durant la phase de transition, les DPS distances devront se positionner prêt du bord de la plateforme, afin d'indiquer aux DPS Mêlée et Tanks les endroits ou se placer pour éviter les Rayon défensif d’Uldir.
+- Lorsque l'ascenceur sera pleinement descendu, les joueurs devront être éparpillés dans une zone de la salle, et les Tempête de sang devront être placées sur les bords de la salle.(modifié)
+
+##1.6. Héroïsme et Soif de sang 
 Nous vous conseillons d'utiliser l'héroïsme/soif de sang lorsque l'ascenseur atteindra le fond de la salle pendant la phase de transition, ce qui permettra aux DPS de tuer les derniers Sang amalgamé et de permettre aux soigneurs de se remettre de cette phase quelque peu chaotique.
 
 # 2ème partie pour mémoire à consulter pendant les pulls
